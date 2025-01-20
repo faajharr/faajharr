@@ -1,3 +1,6 @@
+
+![Social_dino-with-hat](https://github.com/user-attachments/assets/0f1abb42-8469-4aef-8088-508f9db73da4)
+
 <h1 align="center">Welcome to my git👋</h1>
 
 <p align="center">Selamat datang di profil GitHub saya! Saya seorang pelajar **SMK jurusan Rekayasa Perangkat Lunak (RPL)** yang sedang mengembangkan keterampilan di bidang teknologi dan pemrograman.</p>
