@@ -4,7 +4,7 @@
 
 <h1 align="center">Welcome to my git👋</h1>
 
-<p align="center">Selamat datang di profil GitHub saya! Saya seorang pelajar **SMK jurusan Rekayasa Perangkat Lunak (RPL)** yang sedang mengembangkan keterampilan di bidang teknologi dan pemrograman.</p>
+<p align="center">Selamat datang di profil GitHub saya! Saya seorang pelajar <strong>SMK jurusan Rekayasa Perangkat Lunak (RPL)</strong> yang sedang mengembangkan keterampilan di bidang teknologi dan pemrograman.</p>
 
 ---
 
