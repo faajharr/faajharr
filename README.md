@@ -1,5 +1,6 @@
 
-![Social_dino-with-hat](https://github.com/user-attachments/assets/0f1abb42-8469-4aef-8088-508f9db73da4)
+![Dino_non-birthday_version](https://github.com/user-attachments/assets/8534ccb8-cd0b-4d6c-a619-ec04ede0bd7d)
+
 
 <h1 align="center">Welcome to my git👋</h1>
 
