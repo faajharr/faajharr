@@ -33,7 +33,7 @@
 
 ---
 
-## 📂 Proyek yang Pernah Saya Kerjakan
+## 📂 projek yang saya buat
 
 - 🔧 **[Aplikasi Absensi](https://github.com/fajar-mu/absensi-karyawan):** Sistem absensi berbasis lokasi yang akurat menggunakan geolocation.  
 - 🎓 **[Kalkulator Sederhana](https://github.com/fajar-mu/kalkulator):** Aplikasi kalkulator yang dibuat dengan desain sederhana.
