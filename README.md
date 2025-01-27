@@ -55,7 +55,7 @@
 ## 🏆 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fajar-mu&show_icons=true&theme=radical" alt="Fajar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajar-mu&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faajharr&show_icons=true&theme=radical" alt="Fajar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faajharr&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
