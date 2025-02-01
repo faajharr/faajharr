@@ -34,9 +34,11 @@
 
 ## 📂 projek yang saya buat
 
-- 🔧 **[Aplikasi Absensi](https://github.com/fajar-mu/absensi-karyawan):** Sistem absensi berbasis lokasi yang akurat menggunakan geolocation.  
-- 🎓 **[Kalkulator Sederhana](https://github.com/fajar-mu/kalkulator):** Aplikasi kalkulator yang dibuat dengan desain sederhana.
-  
+- **[Aplikasi Absensi](https://github.com/fajar-mu/absensi-karyawan):** Sistem absensi berbasis lokasi yang akurat menggunakan geolocation.  
+- **[Kalkulator HTML](https://github.com/fajar-mu/kalkulator):** Aplikasi kalkulator yang dibuat dengan desain sederhana.
+- **[Kalkulator C++](https://github.com/faajharr/kalkulator-cpp):** Aplikasi kalkulator yang dibuat dengan C++.
+- **[Hitung Nilai Java](https://github.com/faajharr/hitung-nilai-dengan-java):** Aplikasi penghitung rata-rata nilai mapel dan nilai ulangan .
+
 ---
 
 ## 🌐 Kontak Saya
