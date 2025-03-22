@@ -34,16 +34,36 @@
 
 ## 📂 projek yang saya buat
 
-- **[Aplikasi Absensi](https://github.com/fajar-mu/absensi-karyawan)**
-- **[Kalkulator HTML](https://github.com/fajar-mu/kalkulator)**
-- **[Kalkulator C++](https://github.com/faajharr/kalkulator-cpp)** 
-- **[Hitung Nilai Java](https://github.com/faajharr/hitung-nilai-dengan-java)**
-- **[Fake SNBT?UTBK](https://github.com/faajharr/snbt-generator)**
-- **[Fake SNPMB](https://github.com/fajar-mu/fake-snpmb-utbk-2025)**
-- **[Hangman Game](https://github.com/faajharr/hangman-game)**
-- **[QR Code Generator](https://github.com/faajharr/qr-code-generator)**
-- **[Hangman Game](https://github.com/faajharr/quiz )** 
-- **[Hangman Game](https://github.com/faajharr/login_page)** 
+### 1. [Aplikasi Absensi](https://github.com/fajar-mu/absensi-karyawan)
+Aplikasi untuk mencatat kehadiran karyawan dengan fitur manajemen data kehadiran.
+
+### 2. [Kalkulator HTML](https://github.com/fajar-mu/kalkulator)
+Kalkulator sederhana yang dibangun menggunakan HTML, CSS, dan JavaScript.
+
+### 3. [Kalkulator C++](https://github.com/faajharr/kalkulator-cpp)
+Program kalkulator dasar yang dibuat menggunakan bahasa pemrograman C++.
+
+### 4. [Hitung Nilai Java](https://github.com/faajharr/hitung-nilai-dengan-java)
+Aplikasi Java untuk menghitung nilai berdasarkan input pengguna, seperti nilai akademik.
+
+### 5. [Fake SNBT/UTBK](https://github.com/faajharr/snbt-generator)
+Generator fake/palsu hasil ujian SNBT/UTBK untuk tujuan latihan atau edukasi.
+
+### 6. [Fake SNPMB](https://github.com/fajar-mu/fake-snpmb-utbk-2025)
+Alat untuk membuat hasil fake/palsu seleksi SNPMB/UTBK 2025.
+
+### 7. [Hangman Game](https://github.com/faajharr/hangman-game)
+Permainan tebak kata tradisional "Hangman" yang dibuat dalam bentuk aplikasi.
+
+### 8. [QR Code Generator](https://github.com/faajharr/qr-code-generator)
+Alat untuk menghasilkan QR code dari teks atau link yang dimasukkan.
+
+### 9. [Quiz](https://github.com/faajharr/quiz)
+Aplikasi kuis interaktif dengan berbagai pertanyaan dan jawaban.
+
+### 10. [Login Page](https://github.com/faajharr/login_page)
+Halaman login sederhana dengan antarmuka pengguna yang ramah.
+
 ---
 
 ## 🌐 Kontak Saya
