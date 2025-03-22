@@ -4,7 +4,7 @@
 
 <h1 align="center">Welcome to my git👋</h1>
 
-<p align="center">Selamat datang di profil GitHub saya! Saya seorang pelajar <strong>SMK jurusan Rekayasa Perangkat Lunak (RPL)</strong> yang sedang mengembangkan keterampilan di bidang teknologi dan pemrograman.</p>
+<p align="center">"Keep coding, keep learning, and keep sharing!" 🧑‍💻✨</p>
 
 ---
 
@@ -76,6 +76,12 @@ Halaman login sederhana dengan antarmuka pengguna yang ramah.
     <img src="https://img.shields.io/badge/WhatsApp-25ed66?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
+
+---
+
+## 💬 **Kutipan Favorit**
+
+> "The only way to do great work is to love what you do." – Steve Jobs
 
 ---
 
